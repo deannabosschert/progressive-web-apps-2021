@@ -1,0 +1,24 @@
+---
+layout: _base.html
+title: photo album
+metadescription: "last summer's vacation pictures displayed in a photo album"
+---
+<section>
+  <h2>photographs by flickr user <a
+      href="https://www.flickr.com/people/{{photographs.ownerID}}">{{photographs.owner}}</a></h2>
+  <div class="gallery">
+    {% for photograph in photographs.photos %}
+    <article class="photograph" id="{{ photograph.id }}">
+      <a href="/photographs/{{ photograph.id }}">
+        <!-- <img src="{{ photograph.url_small }}" alt="{{ photograph.title }}" height="{{photograph.height_s}}"
+          width="{{photograph.width_s}}"> -->
+        <!-- <img src="{{ photograph.url_medium }}" alt="{{ photograph.title }}" height="{{photograph.height_m}}"
+          width="{{photograph.width_m}}"> -->
+        <img src="{{ photograph.url_medium }}" srcset=" {{ photograph.url_small}} {{photograph.width_s}}w, {{ photograph.url_medium }} {{photograph.width_m}}w,  {{ photograph.url_large }} {{photograph.width_l}}w" sizes="50vw" alt="{{ photograph.title }}" height="{{photograph.height_m}}"  width="{{photograph.width_m}}">
+      </a>
+    </article>
+    {% else %}
+    <p>This would display if the 'photographs'-collection were empty</p>
+    {% endfor %}
+  </div>
+</section>
