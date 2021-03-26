@@ -1,0 +1,16 @@
+---
+pagination:
+  data: photographs.photos
+  alias: photograph
+  size: 1
+permalink: "/photographs/{{ photograph.id | slug }}/"
+title: photo from album
+metadescription: "picture taken during last summer's vacation"
+
+---
+<article>
+  <h1>{{ photograph.title }}</h1>
+  <img src="{{ photograph.url_large }}" alt="{{ photograph.title }}" height="{{photograph.height_l}}" width="{{photograph.width_l}}">
+  <p>views: {{ photograph.views }}</p>
+  <p></p>
+</article>
