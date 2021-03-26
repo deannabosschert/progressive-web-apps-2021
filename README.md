@@ -4,8 +4,8 @@
 
 
 # Survey Data Cleaning
-[![Netlify Status](https://api.netlify.com/api/v1/badges/83e1acb5-f54f-4736-b142-43061eacecb9/deploy-status)](https://app.netlify.com/sites/progressive-web-apps-2021-2021/deploys)
- ... [link to deploy](https://progressive-web-apps-2021-2021.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/17240f94-6d45-474e-a192-b32b7565d4cc/deploy-status)](https://app.netlify.com/sites/progressive-web-apps-2021/deploys)
+ ... [link to deploy](https://progressive-web-apps-2021.netlify.app/)
 
 ![screenshot of website](https://github.com/deannabosschert/progressive-web-apps-2021/blob/trunk/_site/assets/img/screenshot_website.png)
 <details>
