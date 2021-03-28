@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -9,12 +10,29 @@
   <link rel="stylesheet" type="text/css" href="../assets/css/index.css">
 <!--   <link rel="stylesheet" href="/"> -->
   <link rel="manifest" href="/manifest.json">
+  <link rel="apple-touch-icon" href="assets/img/icons/Favicons/favicon-192.png">
 <!--   <script src="/" defer></script> -->
   <title>photo album</title>
 
 </head>
 
 <body>
+  <!-- <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('/service-worker.js')
+        .then(registration => {
+          return registration.update()
+        })
+    });
+  }
+</script> -->
+
+<script>
+  if ("serviceWorker" in navigator)
+    navigator.serviceWorker.register("/service-worker.js");
+</script> 
+
   <header id="top">
   <h1>Summer vacation 2020</h1>
 </header>
@@ -1391,21 +1409,6 @@
   <a class="backToTop" href="#top">Back to top</a>
   <footer><p>Made by Deanna Bosschert, student @ CMD Amsterdam. Coded for Progressive Web Apps 2021.</p></footer>
 
-  <!-- <script>
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', function() {
-      navigator.serviceWorker.register('/service-worker.js')
-        .then(registration => {
-          return registration.update()
-        })
-    });
-  }
-</script> -->
+</body>
 
-<script>
-  if ("serviceWorker" in navigator)
-    navigator.serviceWorker.register("/service-worker.js");
-</script> 
-
-  </body>
 </html>

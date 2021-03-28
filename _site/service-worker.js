@@ -28,11 +28,11 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [
   {
     "url": "assets/css/index.css",
-    "revision": "0b5fa3b97282f7cbbef2cc79f2da8f62"
+    "revision": "49087468a465d3eecafc0fd7e8f2c62e"
   },
   {
     "url": "assets/css/index.css.map",
-    "revision": "4a698b41fd21bc529e73a7df6dedb9a4"
+    "revision": "938b87feb58ae379012693f3cb5e1f8a"
   },
   {
     "url": "assets/fonts/AbrilFatface-Regular.ttf",
@@ -87,6 +87,30 @@ self.__precacheManifest = [
     "revision": "35a9c89aff1396595ad345e378a32aca"
   },
   {
+    "url": "assets/img/documentation/issue_labels.png",
+    "revision": "5797c4c4abe1a831267c5a1dadca7eb1"
+  },
+  {
+    "url": "assets/img/documentation/issues.png",
+    "revision": "9cf14bc493b9fe35a5620e002cd97fb0"
+  },
+  {
+    "url": "assets/img/documentation/lightroom_audit_mobile.png",
+    "revision": "b7cdf205ed953bcb395f1af6d0c83d5f"
+  },
+  {
+    "url": "assets/img/documentation/lightroom_audit.png",
+    "revision": "6fc3f63387c61d519e6cb9419f523c22"
+  },
+  {
+    "url": "assets/img/documentation/milestones.png",
+    "revision": "f5650e03d5c708579d549dcdadeb50e1"
+  },
+  {
+    "url": "assets/img/documentation/project-board.png",
+    "revision": "ffae1a9b98ab8fb76c0f6bca0b15ed9c"
+  },
+  {
     "url": "assets/img/icons/cat/icon.iconset/icon_128x128.png",
     "revision": "3d0475ab1d68c3845b9cbdff58186356"
   },
@@ -125,6 +149,10 @@ self.__precacheManifest = [
   {
     "url": "assets/img/icons/cat/icon.iconset/icon_512x512@2x.png",
     "revision": "b26cb61c311114519430247b74312409"
+  },
+  {
+    "url": "assets/img/icons/cat/icon.iconset/maskable_icon.png",
+    "revision": "2b6c236996a6548572555633a7c6002e"
   },
   {
     "url": "assets/img/icons/Favicons/favicon-114-precomposed.png",
@@ -204,15 +232,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "cf4a69480484377d95009dd00d6a1d32"
+    "revision": "0d87efb351bd528b8e493aff6b290a43"
   },
   {
     "url": "manifest.json",
-    "revision": "7a018ce8b8266f946b08f2455b48025a"
+    "revision": "213431f36d6d5e9466f9c3d143ac04d3"
   },
   {
     "url": "offline/index.html",
-    "revision": "08278101db5d57758d2aa776aaff39b4"
+    "revision": "c2e1884dd7ece10c568c77215d1c1277"
   },
   {
     "url": "photographs/50827054348/index.html",
