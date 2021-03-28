@@ -3,7 +3,8 @@ const pluginPWA = require("eleventy-plugin-pwa")
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy('assets/fonts')
   eleventyConfig.addPassthroughCopy('assets/img')
-  eleventyConfig.addPlugin(pluginPWA);
+  eleventyConfig.addPassthroughCopy('manifest.json')
+  eleventyConfig.addPlugin(pluginPWA)
 
   
   return {
