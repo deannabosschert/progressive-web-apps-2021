@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/deannabosschert/functional-programming.git"
+    "url": "git+https://github.com/deannabosschert/progressive-web-apps-2021.git"
   },
   "keywords": [],
   "author": "Deanna Bosschert",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/deannabosschert/functional-programming/issues"
+    "url": "https://github.com/deannabosschert/progressive-web-apps-2021/issues"
   },
-  "homepage": "https://github.com/deannabosschert/functional-programming#readme",
+  "homepage": "https://github.com/deannabosschert/progressive-web-apps-2021#readme",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
     "cross-env": "^7.0.2",
