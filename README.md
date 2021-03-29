@@ -8,6 +8,8 @@
  ... [link to deploy](https://progressive-web-apps-2021.netlify.app/)
 
 ![screenshot of website](https://github.com/deannabosschert/progressive-web-apps-2021/blob/trunk/_site/assets/img/screenshot_website.png)
+![gif of LR audit](https://github.com/deannabosschert/progressive-web-apps-2021/blob/trunk/_site/assets/img/documentation/LR_audit.gif)
+
 <details>
   <summary><strong>gif screencapture</strong> (click to expand)</summary>
 
@@ -85,7 +87,7 @@ See my [Wiki](https://github.com/deannabosschert/progressive-web-apps-2021/wiki/
 
 ## 👯🏿‍ Features (+ wishlist)
 _What would you like to add (feature wishlist / backlog)?_
-- [ ] Some actual like-feature
+- [ ] Some actual like-feature for PE maybe
 
 ## 🏫 Assignment
 <details>
