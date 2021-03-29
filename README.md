@@ -3,7 +3,7 @@
 "In this course we will convert the client side web application previously made Web App From Scratch into a server side rendered application. We also add functionalities based on the Service Worker and turn the application into a Progressive Web App. Ultimately we are going to implement a series of optimisations to improve the performance of the application."
 
 
-# Survey Data Cleaning
+# PWA
 [![Netlify Status](https://api.netlify.com/api/v1/badges/17240f94-6d45-474e-a192-b32b7565d4cc/deploy-status)](https://app.netlify.com/sites/progressive-web-apps-2021/deploys)
  ... [link to deploy](https://progressive-web-apps-2021.netlify.app/)
 
