@@ -7,11 +7,11 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/17240f94-6d45-474e-a192-b32b7565d4cc/deploy-status)](https://app.netlify.com/sites/progressive-web-apps-2021/deploys)
  ... [link to deploy](https://progressive-web-apps-2021.netlify.app/)
 
-![screenshot of website](https://github.com/deannabosschert/progressive-web-apps-2021/blob/trunk/_site/assets/img/documentatie/screenshot_website.png)
+![screenshot of website](https://github.com/deannabosschert/progressive-web-apps-2021/blob/trunk/_site/assets/img/documentation/screenshot_website.png)
 <details>
   <summary><strong>gif screencapture</strong> (click to expand)</summary>
 
-![gif of website](https://github.com/deannabosschert/progressive-web-apps-2021/blob/trunk/_site/assets/img/screenshot_website.gif)
+![gif of website](https://github.com/deannabosschert/progressive-web-apps-2021/blob/trunk/_site/assets/img/documentation/screenshot_website.gif)
 </details>
 
 ## Table of Contents
